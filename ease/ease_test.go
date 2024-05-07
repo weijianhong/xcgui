@@ -1,12 +1,12 @@
 package ease_test
 
 import (
-	"github.com/twgh/xcgui/app"
-	"github.com/twgh/xcgui/ease"
-	"github.com/twgh/xcgui/tf"
-	"github.com/twgh/xcgui/window"
-	"github.com/twgh/xcgui/xc"
-	"github.com/twgh/xcgui/xcc"
+	"github.com/weijianhong/xcgui/app"
+	"github.com/weijianhong/xcgui/ease"
+	"github.com/weijianhong/xcgui/tf"
+	"github.com/weijianhong/xcgui/window"
+	"github.com/weijianhong/xcgui/xc"
+	"github.com/weijianhong/xcgui/xcc"
 	"testing"
 	"time"
 )

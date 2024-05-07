@@ -3,9 +3,9 @@ package xc
 import (
 	"unsafe"
 
-	"github.com/twgh/xcgui/common"
+	"github.com/weijianhong/xcgui/common"
 
-	"github.com/twgh/xcgui/xcc"
+	"github.com/weijianhong/xcgui/xcc"
 )
 
 // 列表框_创建, 创建列表框元素, 返回元素句柄.

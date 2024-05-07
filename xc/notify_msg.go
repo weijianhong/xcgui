@@ -1,8 +1,8 @@
 package xc
 
 import (
-	"github.com/twgh/xcgui/common"
-	"github.com/twgh/xcgui/xcc"
+	"github.com/weijianhong/xcgui/common"
+	"github.com/weijianhong/xcgui/xcc"
 )
 
 // 通知消息_弹出, 未实现, 预留接口.

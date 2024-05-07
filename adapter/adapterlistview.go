@@ -1,7 +1,7 @@
 package adapter
 
 import (
-	"github.com/twgh/xcgui/xc"
+	"github.com/weijianhong/xcgui/xc"
 )
 
 // AdapterListView 数据适配器-列表视元素.

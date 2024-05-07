@@ -2,14 +2,14 @@ package wapi_test
 
 import (
 	"fmt"
-	"github.com/twgh/xcgui/tf"
+	"github.com/weijianhong/xcgui/tf"
 	"testing"
 
-	"github.com/twgh/xcgui/app"
-	"github.com/twgh/xcgui/wapi"
-	"github.com/twgh/xcgui/widget"
-	"github.com/twgh/xcgui/window"
-	"github.com/twgh/xcgui/xcc"
+	"github.com/weijianhong/xcgui/app"
+	"github.com/weijianhong/xcgui/wapi"
+	"github.com/weijianhong/xcgui/widget"
+	"github.com/weijianhong/xcgui/window"
+	"github.com/weijianhong/xcgui/xcc"
 )
 
 func TestGetDesktopWindow(t *testing.T) {

@@ -1,10 +1,10 @@
 package window_test
 
 import (
-	"github.com/twgh/xcgui/app"
-	"github.com/twgh/xcgui/tf"
-	"github.com/twgh/xcgui/widget"
-	"github.com/twgh/xcgui/window"
+	"github.com/weijianhong/xcgui/app"
+	"github.com/weijianhong/xcgui/tf"
+	"github.com/weijianhong/xcgui/widget"
+	"github.com/weijianhong/xcgui/window"
 	"math/rand"
 	"testing"
 	"time"

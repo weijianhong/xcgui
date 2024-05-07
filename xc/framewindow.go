@@ -1,10 +1,10 @@
 package xc
 
 import (
-	"github.com/twgh/xcgui/common"
+	"github.com/weijianhong/xcgui/common"
 	"unsafe"
 
-	"github.com/twgh/xcgui/xcc"
+	"github.com/weijianhong/xcgui/xcc"
 )
 
 // 框架窗口_创建, 返回GUI库窗口资源句柄.

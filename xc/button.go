@@ -1,8 +1,8 @@
 package xc
 
 import (
-	"github.com/twgh/xcgui/common"
-	"github.com/twgh/xcgui/xcc"
+	"github.com/weijianhong/xcgui/common"
+	"github.com/weijianhong/xcgui/xcc"
 )
 
 // 按钮_创建.

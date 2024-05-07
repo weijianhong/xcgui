@@ -2,7 +2,7 @@ package wutil_test
 
 import (
 	"fmt"
-	"github.com/twgh/xcgui/wapi/wutil"
+	"github.com/weijianhong/xcgui/wapi/wutil"
 	"testing"
 )
 

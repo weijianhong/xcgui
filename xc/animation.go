@@ -1,10 +1,10 @@
 package xc
 
 import (
-	"github.com/twgh/xcgui/common"
+	"github.com/weijianhong/xcgui/common"
 	"syscall"
 
-	"github.com/twgh/xcgui/xcc"
+	"github.com/weijianhong/xcgui/xcc"
 )
 
 // 动画_运行, 并且增加引用计数.

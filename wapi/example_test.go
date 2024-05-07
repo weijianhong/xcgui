@@ -6,11 +6,11 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/twgh/xcgui/app"
-	"github.com/twgh/xcgui/common"
-	"github.com/twgh/xcgui/wapi"
-	"github.com/twgh/xcgui/window"
-	"github.com/twgh/xcgui/xcc"
+	"github.com/weijianhong/xcgui/app"
+	"github.com/weijianhong/xcgui/common"
+	"github.com/weijianhong/xcgui/wapi"
+	"github.com/weijianhong/xcgui/window"
+	"github.com/weijianhong/xcgui/xcc"
 )
 
 func ExampleLoadImageW() {

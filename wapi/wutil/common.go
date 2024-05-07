@@ -1,9 +1,9 @@
 package wutil
 
 import (
-	"github.com/twgh/xcgui/common"
-	"github.com/twgh/xcgui/wapi"
-	"github.com/twgh/xcgui/xc"
+	"github.com/weijianhong/xcgui/common"
+	"github.com/weijianhong/xcgui/wapi"
+	"github.com/weijianhong/xcgui/xc"
 	"path/filepath"
 	"strings"
 	"syscall"

@@ -1,7 +1,7 @@
 package adapter
 
 import (
-	"github.com/twgh/xcgui/xc"
+	"github.com/weijianhong/xcgui/xc"
 )
 
 // AdapterMap 数据适配器-单列Map-列表头(listHeader).

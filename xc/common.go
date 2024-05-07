@@ -1,7 +1,7 @@
 package xc
 
 import (
-	"github.com/twgh/xcgui/xcc"
+	"github.com/weijianhong/xcgui/xcc"
 	"os"
 	"syscall"
 )

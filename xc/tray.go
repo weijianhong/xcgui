@@ -1,8 +1,8 @@
 package xc
 
 import (
-	"github.com/twgh/xcgui/common"
-	"github.com/twgh/xcgui/xcc"
+	"github.com/weijianhong/xcgui/common"
+	"github.com/weijianhong/xcgui/xcc"
 )
 
 // 托盘图标_重置. 重置数据, 当未添加到系统托盘状态才可调用.

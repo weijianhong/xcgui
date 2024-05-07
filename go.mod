@@ -1,3 +1,3 @@
-module github.com/twgh/xcgui
+module github.com/weijianhong/xcgui
 
 go 1.16

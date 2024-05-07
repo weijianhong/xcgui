@@ -1,10 +1,10 @@
 package xc
 
 import (
-	"github.com/twgh/xcgui/common"
+	"github.com/weijianhong/xcgui/common"
 	"unsafe"
 
-	"github.com/twgh/xcgui/xcc"
+	"github.com/weijianhong/xcgui/xcc"
 )
 
 // 窗口组件_判断显示, 判断UI对象是否显示.

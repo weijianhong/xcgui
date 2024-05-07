@@ -1,7 +1,7 @@
 package widget
 
 import (
-	"github.com/twgh/xcgui/xc"
+	"github.com/weijianhong/xcgui/xc"
 )
 
 // ShapeLine 直线(形状对象).

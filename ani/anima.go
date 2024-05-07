@@ -1,8 +1,8 @@
 package ani
 
 import (
-	"github.com/twgh/xcgui/xc"
-	"github.com/twgh/xcgui/xcc"
+	"github.com/weijianhong/xcgui/xc"
+	"github.com/weijianhong/xcgui/xcc"
 )
 
 // Anima 动画序列.

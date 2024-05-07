@@ -1,8 +1,8 @@
 package adapter
 
 import (
-	"github.com/twgh/xcgui/xc"
-	"github.com/twgh/xcgui/xcc"
+	"github.com/weijianhong/xcgui/xc"
+	"github.com/weijianhong/xcgui/xcc"
 )
 
 // AdapterTable 数据适配器-XList-XListBox.

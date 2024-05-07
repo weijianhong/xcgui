@@ -1,6 +1,6 @@
 package xc
 
-import "github.com/twgh/xcgui/common"
+import "github.com/weijianhong/xcgui/common"
 
 // 数据适配器_增加引用计数.
 //

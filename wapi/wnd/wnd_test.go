@@ -2,8 +2,8 @@ package wnd_test
 
 import (
 	"fmt"
-	"github.com/twgh/xcgui/wapi"
-	"github.com/twgh/xcgui/wapi/wnd"
+	"github.com/weijianhong/xcgui/wapi"
+	"github.com/weijianhong/xcgui/wapi/wnd"
 	"testing"
 )
 

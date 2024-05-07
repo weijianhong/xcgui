@@ -2,8 +2,8 @@ package wapi_test
 
 import (
 	"fmt"
-	"github.com/twgh/xcgui/common"
-	"github.com/twgh/xcgui/wapi"
+	"github.com/weijianhong/xcgui/common"
+	"github.com/weijianhong/xcgui/wapi"
 	"strings"
 	"syscall"
 	"testing"

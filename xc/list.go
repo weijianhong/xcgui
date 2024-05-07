@@ -3,9 +3,9 @@ package xc
 import (
 	"unsafe"
 
-	"github.com/twgh/xcgui/common"
+	"github.com/weijianhong/xcgui/common"
 
-	"github.com/twgh/xcgui/xcc"
+	"github.com/weijianhong/xcgui/xcc"
 )
 
 // 列表_创建, 创建列表元素, 返回元素句柄.

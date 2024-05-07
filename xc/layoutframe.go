@@ -1,6 +1,6 @@
 package xc
 
-import "github.com/twgh/xcgui/common"
+import "github.com/weijianhong/xcgui/common"
 
 // 布局框架_创建.
 //

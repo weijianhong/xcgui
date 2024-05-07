@@ -1,10 +1,10 @@
 package app_test
 
 import (
-	"github.com/twgh/xcgui/app"
-	"github.com/twgh/xcgui/imagex"
-	"github.com/twgh/xcgui/window"
-	"github.com/twgh/xcgui/xcc"
+	"github.com/weijianhong/xcgui/app"
+	"github.com/weijianhong/xcgui/imagex"
+	"github.com/weijianhong/xcgui/window"
+	"github.com/weijianhong/xcgui/xcc"
 	"testing"
 )
 

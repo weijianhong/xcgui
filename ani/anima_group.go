@@ -1,7 +1,7 @@
 package ani
 
 import (
-	"github.com/twgh/xcgui/xc"
+	"github.com/weijianhong/xcgui/xc"
 )
 
 // AnimaGroup 动画组.

@@ -2,8 +2,8 @@ package wutil
 
 import (
 	"errors"
-	"github.com/twgh/xcgui/common"
-	"github.com/twgh/xcgui/wapi"
+	"github.com/weijianhong/xcgui/common"
+	"github.com/weijianhong/xcgui/wapi"
 	"runtime"
 	"syscall"
 	"time"

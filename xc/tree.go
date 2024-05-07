@@ -3,9 +3,9 @@ package xc
 import (
 	"unsafe"
 
-	"github.com/twgh/xcgui/common"
+	"github.com/weijianhong/xcgui/common"
 
-	"github.com/twgh/xcgui/xcc"
+	"github.com/weijianhong/xcgui/xcc"
 )
 
 // XTree_Create 列表树_创建, 创建树元素, 返回元素句柄.
