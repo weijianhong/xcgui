@@ -1,7 +1,6 @@
 package common
 
 import (
-	"syscall"
 	"unicode/utf16"
 	"unsafe"
 )
@@ -47,6 +46,19 @@ type sliceHeader struct {
 	Cap  int
 }
 
+func toUTF16Ptr(s string) (*uint16, int) {
+	// 将字符串转换为 UTF-16 编码的 rune 切片
+	utf16s := utf16.Encode([]rune(s))
+
+	// 分配一个额外的 uint16 用于空字符（字符串终止符）
+	utf16WithNull := make([]uint16, len(utf16s)+1)
+	copy(utf16WithNull, utf16s)
+	utf16WithNull[len(utf16s)] = 0 // 空字符作为字符串终止符
+
+	// 返回指向第一个 UTF-16 字符的指针和长度（不包括空字符）
+	return &utf16WithNull[0], len(utf16s)
+}
+
 // StrPtr 将string转换到uintptr.
 //
 //	@param s
@@ -55,7 +67,8 @@ func StrPtr(s string) uintptr {
 	if len(s) == 0 {
 		return uintptr(0)
 	}
-	p, _ := syscall.UTF16PtrFromString(s)
+	p, _ := toUTF16Ptr(s)
+
 	return uintptr(unsafe.Pointer(p))
 }
 
